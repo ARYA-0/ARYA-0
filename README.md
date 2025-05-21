@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Arya</h1>
 <h3 align="center">I'm deeply enthusiastic about AI and eager to contribute more to its advancement.</h3>
 
-- 🧑‍💻 I’m currently working on a Database Management Project **Salon Management **
+- 🧑‍💻 I’m currently working on a Machine Learning Model **Agricultural Harvest Prediction **
 
-- 👨‍💻 All of my projects are available at [https://sites.google.com/view/aarryyaa/home](https://sites.google.com/view/aarryyaa/home)
+- 👨‍💻 Visit my webiste at [https://sites.google.com/view/aarryyaa/home](https://sites.google.com/view/aarryyaa/home)
 
 - 📫 How to reach me **ac1989@srmist.edu.in**
 
